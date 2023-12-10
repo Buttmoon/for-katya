@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="et-xmlfile" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="video_models.models.ClientUser.objects" />
+          <option value="video_models.models.VideoData.objects" />
+          <option value="video_models.models.ErrorsFromBrowserAutomationStudio.objects" />
+          <option value="video_models.models.LogData.objects" />
+          <option value="video_models.models.Machine.objects" />
+          <option value="video_models.models.BASFingerprint.objects" />
+          <option value="video_models.models.Settings.objects" />
+          <option value="video_models.models.UserProfile.objects" />
+          <option value="video_models.models.FilterData.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
